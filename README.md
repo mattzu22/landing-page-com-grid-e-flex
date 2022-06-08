@@ -4,13 +4,17 @@
 
 ## 🔖 Descrição
 
-    Essa foi uma landing page criada juntamente com o curso DevQuest com o objetivo de ensinar os conceitos e as formas de se utilizar o Grid e o Flex em conjunto na mesma página.
+    Essa foi uma landing page criada juntamente com o curso DevQuest com o objetivo de
+    ensinar os conceitos e as formas de se utilizar o Grid e o Flex em conjunto na mesma
+    página.
 
 ---
 
 ## 🚀 O que eu aprendi
 
-    Aprendi os conceitos mais importantes do Grid e como utiliza-lo para definir linhas e colunas e que é possível criar uma página usando o grid e o flex juntos, além de ter aprendido a como criar o menu hamburguer para os dispostivos mobile
+    Aprendi os conceitos mais importantes do Grid e como utiliza-lo para definir linhas e
+    colunas e que é possível criar uma página usando o grid e o flex juntos, além de ter 
+    aprendido a como criar o menu hamburguer para os dispostivos mobile
 
 ---
 
